@@ -15,7 +15,7 @@ Ce projet est une application web Full-Stack permettant de gérer une liste d'ut
 
 ---
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 
 | Couche | Technologies |
 |---|---|
